@@ -31,7 +31,7 @@ public class artistaTest {
     @Test
     public void tamMin() 
     {
-        assertTrue(Artista.tam("Queen,10,Doors,9,Nirvana,8,Metalica,7,otro,6,,yotro,5"));
+        assertTrue(Artista.tam("Queen,10,Doors,9,Nirvana,8,Metalica,7,otro,6"));
     
     }
     
@@ -63,7 +63,7 @@ public class artistaTest {
         assertTrue(Artista.tNom("X"));
     }
     
-    //49 caracteres
+    //50 caracteres
     
     @Test
     public void maxNom()
