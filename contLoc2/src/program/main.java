@@ -2,13 +2,13 @@
  * Autor: Mario Montes Gomez
  * clase main en donde se ejecutan los metodos
  */
-/* Añadi la lectura de un archivo txt para comparar lineas modificadas, eliminadas, o agregadas
- * Añadi la escritura de un archivo txt para insertar el total del LOC y comparar
+/* AÃ±adi la lectura de un archivo txt para comparar lineas modificadas, eliminadas, o agregadas
+ * AÃ±adi la escritura de un archivo txt para insertar el total del LOC y comparar
  * Tambien se mostrara el archivo txt, de ese muestra igual las lineas y metodos, 
  * pero no los cuenta para el LOC
  * 
  * puede ir a la linea 41 a 93 para ver lo que agregue
- * puede eliminar la linea 90 para comprobar que se elimino, 
+ * puede eliminar la linea 97 para comprobar que se elimino, 
  * despues la vuelve a agregar y comprobar que se agrego,
  * nuevamente compruebe y vera que sigue igual
  * */
